@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin performs a very particular maven release process on a project.
+</div>
